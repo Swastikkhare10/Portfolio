@@ -23,7 +23,7 @@ I have experience with a wide range of technologies and tools, including but not
 - Version Control: Git, GitHub
 
 ## Contact
-You can reach out to me via email at [swastikkhare777@gmail.com]. Feel free to connect with me on LinkedIn [LinkedIn](https://www.linkedin.com/in/swastik-khare-46b593229/)] or check out my GitHub profile [GitHub](https://github.com/swastikkhare10)].
+You can reach out to me via email at [swastikkhare777@gmail.com]. Feel free to connect with me on LinkedIn [LinkedIn](https://www.linkedin.com/in/swastik-khare-46b593229/) or check out my GitHub profile [GitHub](https://github.com/swastikkhare10).
 
 If you want to collaborate, or just want to say hello, don't hesitate to get in touch. I'm always open to new opportunities and exciting projects!
 
