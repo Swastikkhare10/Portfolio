@@ -23,11 +23,11 @@ I have experience with a wide range of technologies and tools, including but not
 - Version Control: Git, GitHub
 
 ## Contact
-You can reach out to me via email at [swastikkhare777@gmail.com]. Feel free to connect with me on LinkedIn [[Your LinkedIn Profile URL](https://www.linkedin.com/in/swastik-khare-46b593229/)] or check out my GitHub profile [[Your GitHub Profile URL](https://github.com/swastikkhare10)].
+You can reach out to me via email at [swastikkhare777@gmail.com]. Feel free to connect with me on LinkedIn [LinkedIn](https://www.linkedin.com/in/swastik-khare-46b593229/)] or check out my GitHub profile [GitHub](https://github.com/swastikkhare10)].
 
 If you want to collaborate, or just want to say hello, don't hesitate to get in touch. I'm always open to new opportunities and exciting projects!
 
 Thank you for visiting my portfolio website. I look forward to connecting with you!
 
-LIVE DEMO of the site : [GitHub](https://swastik-portfolio.vercel.app/)
+LIVE DEMO of the site : [My Portfolio](https://swastik-portfolio.vercel.app/)
 
